@@ -2,7 +2,7 @@
 
 Please run in requential order using MATLAB
 
-# avrg_all.m
+## avrg_all.m
 execute : S = avrg_all(N,n) to get mean activations for all combinations of inhibition strengths and
 set sizes. The function does the task n times and also calculates the average.
 output: avrg_data3_a2.2_n30.mat
